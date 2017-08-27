@@ -1,4 +1,5 @@
-In the video: Build and deploy rails app in less than 4 minutes, we use Cloud9 to instantly install Ruby and Ruby on Rails on a virtual Linux server in the cloud. We very quickly create a rough and simple web application using the Rails scaffolding generator.
+In the video: Build and deploy rails app in less than 4 minutes https://www.youtube.com/watch?v=q26lNfwNWWQ   
+we use Cloud9 to instantly install Ruby and Ruby on Rails on a virtual Linux server in the cloud. We very quickly create a rough and simple web application using the Rails scaffolding generator.
 
 We' use GIT for version control, and we push our work up to Github, so that we can share our code, and finally, we deploy our application to production by pushing it up to Heroku.
 
